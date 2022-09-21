@@ -2,20 +2,20 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-MalanabiKammar-red)](https://www.youtube.com/channel/UCtLPPfMOrIe4obZMMGxy79A)
 [![Linkedin Badge](https://img.shields.io/badge/-Malanabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malan-kammar-082841246/)](https://www.linkedin.com/in/malan-kammar-082841246/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/WebSite-Malanabi-green)]()
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Malanabi-yellow)](https://stackoverflow.com/users/19641888/malanabi-kammar)
 
 I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MalanKammar/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MalanKammar&column=7"/>
   </a>
 </div>
 
