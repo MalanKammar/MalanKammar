@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-MalanKammar-red)](https://www.youtube.com/channel/UCtLPPfMOrIe4obZMMGxy79A)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malan-kammar-082841246/)](https://www.linkedin.com/in/malan-kammar-082841246/)
-
+[![YouTube Badge](https://img.shields.io/badge/YouTube-MalanabiKammar-red)](https://www.youtube.com/channel/UCtLPPfMOrIe4obZMMGxy79A)
+[![Linkedin Badge](https://img.shields.io/badge/-Malanabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malan-kammar-082841246/)](https://www.linkedin.com/in/malan-kammar-082841246/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
